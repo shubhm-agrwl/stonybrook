@@ -1,0 +1,8 @@
+20210403-16:05:57.803874 DNS poisoning attempt
+TXID 40183 Request www.tcpdump.org
+Answer 1 172.24.18.135 
+Answer 2 159.89.89.188 159.89.89.188 
+20210403-16:06:07.095627 DNS poisoning attempt
+TXID 3379 Request www.example.com
+Answer 1 93.184.216.34 
+Answer 2 172.24.18.135 
